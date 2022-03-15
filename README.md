@@ -33,14 +33,14 @@ And select a custom version installed from your OS.
 
 # Credits
 
-- (shabman) [https://github.com/shabman]
+- [shabman] [https://github.com/shabman]
   - Founder
   - Maintainers
   - Lead Java Programmer
   - UI Design
   - IDE Programmer
 
-- (Intervinn) [https://github.com/intervinn]
+- [Intervinn] [https://github.com/intervinn]
   - Lead Python Programmer
   - Maintainers
   - Lead Compiler + Interpreter Programmer
