@@ -6,7 +6,7 @@ A simple IDE for the Brainfuck programming language. This will interpret, compil
 # Setting the IDE up from Source
 
 - Requirements
-- Java 11+ (If your Java version doesn't not run the IDE, use JDK 17.0.01)
+- Java 11+ (If your Java version doesn't run the IDE, use JDK 17.0.01)
 - Python 3.8+
 - Any OS (Win, Mac, Linux) that can run Java and Python.
 
